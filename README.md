@@ -8,9 +8,3 @@ It wil resize your divs to be square
 
 You will need to add some css to create a layout like this:
 
---- ------ --- ---
-|1| |    | |4| |6|
---- |  3 | --- ---
-|2| |    | |5| |7|
---- ------ --- ---
-
